@@ -13,8 +13,3 @@ class run_factory():
             return "naan"
         else:
             return "incorrect ingredients"
-
-    # def run_factory(self, item1, item2):
-    #     get_dough = self.make_dough(item1, item2)
-    #     get_naan = self.bake_dough(item1)
-    #     return  "Naan Created"

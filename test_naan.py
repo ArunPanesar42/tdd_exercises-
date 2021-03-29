@@ -11,6 +11,3 @@ class makeNaanTest(unittest.TestCase):
 
     def test_bake_dough(self):
         self.assertEqual(self.naanf.bake_dough("dough"), "naan")
-
-    # def test_run_factory(self):
-    #     self.assertEqual(self.naanf.run_factory("water", "flour"), "naan")

@@ -5,7 +5,7 @@
 
 2. As a user, I can use the bake dough with dough to get naan.
 
-3.As a user, I can use the run factory with water and flour and get naan.
+3. As a user, I can use the run factory with water and flour and get naan.
 
 #### Acceptance Criteria
 
